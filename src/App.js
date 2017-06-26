@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import pokelogo from './newpokeball.png';
-import pokeTitle from './pokeTitle.gif';
+import pokeTitle from './newpokelogo.png';
 import pokedex from './pokedex.png';
 import './App.css';
 
