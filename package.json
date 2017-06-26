@@ -1,6 +1,7 @@
 {
   "name": "pokemon-app",
   "version": "0.1.0",
+  "homepage": "https://eliKeetch.github.io/pokemonApp",
   "private": true,
   "dependencies": {
     "jquery": "^3.2.1",
